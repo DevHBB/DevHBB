@@ -163,26 +163,50 @@ Whether it's a game, an emulator, a custom interface or some completely random i
 
 ---
 
-# 🚀 Projects
+# 🤝 Collaborative Projects
 
 ## 🧩 Polaris Imager
-
 A fork of Polaris Imager focused on bringing **additional tools, customization and experimentation** to the Habbo emulator ecosystem.
 
-### ✨ Features & Experiments
+---
 
-```text
-🎨 Advanced Image Generation
-👕 Clothing Customization
-🔤 Habbo Font Generator
-💬 Chat Bubble Customization
-🎭 Multi-Character Scenes
-🖼️ Avatar Creation
-🔐 Optional Authentication
-🗄️ Optional Database Integration
-```
+## 🧩 Nitro-V3
+Adding small **gameplay features and improvements** to the Nitro-V3 client.
 
-The goal is to make useful tools more accessible to developers and communities while keeping everything **flexible and open source**.
+---
+
+# 🧪 Personal Projects
+A collection of smaller projects, experiments and ideas I've built over time.
+
+### 🌐 Codage.dev
+An open-source website designed to showcase **what a developer can build and what they are capable of**.
+
+---
+
+### ☕ Cafe Template
+An e-commerce website template created to showcase a **coffee shop / coffee business**, built without a database.
+The goal was to create a complete and visually appealing storefront while keeping the project simple and lightweight.
+
+---
+
+### 🏆 ClubCMS
+A CMS designed specifically for **sports clubs**, providing the tools needed to manage and showcase a club online.
+
+---
+
+### 🛍️ Vitrine_kikr-Template
+A complete showcase website designed for **selling products online or in-store**, with all the essential features needed for a modern storefront.
+
+---
+
+### 🔤 HabboFontGenerator
+A **Habbo font generator** designed to create and experiment with Habbo-style fonts.
+
+---
+
+### 😈 TikTokBot
+A bot designed to **automatically publish videos to TikTok indefinitely**, based on predefined statistics and conditions.
+Because apparently, one TikTok account wasn't enough. 😈
 
 ---
 
@@ -273,42 +297,84 @@ The goal is still:
 
 ---
 
-# 🌱 Open Source
+# 🌱 Open Source & My Development Philosophy
 
-I'm particularly interested in making the **Habbo emulator scene more accessible to new developers**.
+I'm particularly interested in making development more accessible to **new developers**.
 
-There are a lot of interesting projects in the ecosystem, but getting started can sometimes be complicated.
+There are so many interesting technologies, projects and ideas to explore, but getting started can sometimes be complicated.
 
-I'd like my projects to help lower that barrier.
+I'd like my projects to help lower that barrier, encourage experimentation, and make it easier for people to **learn, build, and create their own ideas**.
 
 ### The idea
 
-```text
-                    ┌───────────────┐
-                    │   New Dev     │
-                    └───────┬───────┘
-                            │
-                            ▼
-                  ┌───────────────────┐
-                  │  Easier Tooling   │
-                  └─────────┬─────────┘
-                            │
-                            ▼
-                  ┌───────────────────┐
-                  │   Experiment      │
-                  └─────────┬─────────┘
-                            │
-                            ▼
-                  ┌───────────────────┐
-                  │      Build        │
-                  └─────────┬─────────┘
-                            │
-                            ▼
-                  ┌───────────────────┐
-                  │   Open Source     │
-                  └───────────────────┘
-```
+# 🌱 Open Source & My Development Philosophy
 
+I'm particularly interested in making development more accessible to **new developers**.
+
+There are so many interesting technologies, projects and ideas to explore, but getting started can sometimes be complicated.
+
+I'd like my projects to help lower that barrier, encourage experimentation, and make it easier for people to **learn, build, experiment, and create their own ideas**.
+
+### 💡 The idea
+
+<div align="center">
+
+```text
+                         💡 HAVE AN IDEA
+                               │
+                               ▼
+                    ┌───────────────────┐
+                    │    NEW DEVELOPER  │
+                    └─────────┬─────────┘
+                              │
+                              ▼
+                    ┌───────────────────┐
+                    │   EASIER TOOLING  │
+                    └─────────┬─────────┘
+                              │
+                              ▼
+                    ┌───────────────────┐
+                    │    EXPERIMENT     │
+                    └─────────┬─────────┘
+                              │
+                              ▼
+                    ┌───────────────────┐
+                    │      BUILD        │
+                    └─────────┬─────────┘
+                              │
+                              ▼
+                    ┌───────────────────┐
+                    │      BREAK        │
+                    └─────────┬─────────┘
+                              │
+                              ▼
+                    ┌───────────────────┐
+                    │       FIX         │
+                    └─────────┬─────────┘
+                              │
+                              ▼
+                    ┌───────────────────┐
+                    │     IMPROVE       │
+                    └─────────┬─────────┘
+                              │
+                              ▼
+                    ┌───────────────────┐
+                    │   ADD FEATURES    │
+                    └─────────┬─────────┘
+                              │
+                              ▼
+                    ┌───────────────────┐
+                    │   OPEN SOURCE     │
+                    └─────────┬─────────┘
+                              │
+                              ▼
+                    ┌───────────────────┐
+                    │   SHARE & LEARN   │
+                    └─────────┬─────────┘
+                              │
+                              ▼
+                 "Wait... how did this become
+                      a whole project?"```
 ---
 
 # 📈 Contribution Activity
@@ -324,43 +390,6 @@ I'd like my projects to help lower that barrier.
 </div>
 
 ---
-
-# 🧩 My Development Philosophy
-
-<div align="center">
-
-```text
-                 💡 HAVE AN IDEA
-                       │
-                       ▼
-                 ┌─────────────┐
-                 │   BUILD IT  │
-                 └──────┬──────┘
-                        │
-                        ▼
-                 ┌─────────────┐
-                 │   BREAK IT  │
-                 └──────┬──────┘
-                        │
-                        ▼
-                 ┌─────────────┐
-                 │    FIX IT   │
-                 └──────┬──────┘
-                        │
-                        ▼
-                 ┌─────────────┐
-                 │   IMPROVE   │
-                 └──────┬──────┘
-                        │
-                        ▼
-                 ┌─────────────┐
-                 │ ADD FEATURES│
-                 └──────┬──────┘
-                        │
-                        ▼
-              "Wait... how did this
-               become a whole project?"
-```
 
 </div>
 
