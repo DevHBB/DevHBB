@@ -1,78 +1,116 @@
+<div align="center">
+
 # 👋 Hey, I'm Valentin
 
 ### Developer · Open Source · Habbo Emulator Enthusiast · Gamer
 
-I enjoy building things, breaking them, fixing them, and then adding way too many features.
-Most of my projects revolve around **web development, Habbo emulators, game communities and open-source tools**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0F7ED7&center=true&vCenter=true&width=700&lines=Building+things+just+because+I+can.;Habbo+Emulator+%26+Web+Developer;Open+Source+Enthusiast;Break+it.+Fix+it.+Improve+it.;Always+adding+way+too+many+features." alt="Typing SVG" />
 
-[![Website](https://img.shields.io/badge/Website-bobbix.fr-0f7ed7?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://bobbix.fr)
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/duckietm)
+<br>
+
+<a href="https://github.com/DevHBB">
+<img src="https://img.shields.io/github/followers/DevHBB?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers" />
+</a>
+<a href="https://github.com/DevHBB?tab=repositories">
+<img src="https://img.shields.io/github/stars/DevHBB?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars" />
+</a>
+<a href="https://github.com/DevHBB">
+<img src="https://komarev.com/ghpvc/?username=DevHBB&style=for-the-badge&color=0F7ED7" alt="Profile Views" />
+</a>
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+I enjoy building things, breaking them, fixing them, and then adding way too many features.
+
+Most of my projects revolve around:
+
+* 🌐 Web development
+* 🏨 Habbo emulators
+* 🎮 Games & emulation
+* 🧩 Plugins & extensions
+* 🎨 Graphics & customization
+* 🔧 Developer tools
+* 🤖 AI-assisted development
+* 🌱 Open source
+
+I'm especially interested in taking existing ideas and asking:
+
+> **"Okay... but what if we pushed this way further?"**
 
 ---
 
 ## 🎮 Tech for Fun & Free Time
 
-I like experimenting with technologies that let me build things just because I can.
+I don't only code because I have to.
 
-![Habbo](https://img.shields.io/badge/Habbo-FFB900?style=for-the-badge)
-![Emulators](https://img.shields.io/badge/Emulators-8A2BE2?style=for-the-badge)
-![Gaming](https://img.shields.io/badge/Gaming-000000?style=for-the-badge\&logo=steam\&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?style=for-the-badge\&logo=opensourceinitiative\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+I like experimenting with technologies simply because they're interesting.
+
+Games, emulators, old software, custom clients, graphics systems, reverse engineering, automation...
+
+If something makes me think **"I wonder if I could make that"**, there's a good chance I'll end up trying.
 
 ---
 
-## 🛠️ Work Setup
+## 🛠️ My Setup
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge\&logo=mariadb\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=windows,linux,vscode,nginx,cloudflare,mysql,mariadb,nodejs,java,php&theme=dark&perline=10" alt="My Setup" />
+
+</div>
 
 ---
 
 ## 💻 Technologies I Enjoy Working With
 
-### Web
+### 🌐 Web Development
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+<div align="center">
 
-### Backend & Databases
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php&theme=dark&perline=10" alt="Web Technologies" />
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge\&logo=mariadb\&logoColor=white)
+</div>
+
+### ⚙️ Backend & Databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,php,nodejs,mysql,mariadb,nginx&theme=dark&perline=10" alt="Backend Technologies" />
+
+</div>
+
+### 🔧 Tools & Infrastructure
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,cloudflare,vscode&theme=dark&perline=10" alt="Tools" />
+
+</div>
 
 ---
 
 ## 🏨 Habbo Emulator Development
 
-A big part of what I enjoy working on is the **Habbo emulator ecosystem**.
+A huge part of what I enjoy working on is the **Habbo emulator ecosystem**.
 
 I like experimenting with:
 
-* 🖥️ Emulator development
-* 🎨 Custom clients & interfaces
-* 🧩 Emulator plugins
-* 👕 Avatar & clothing systems
-* 💬 Chat customization
-* 🖼️ Imagers & graphics tools
-* 🔤 Habbo fonts & font generators
-* 🎭 Scenes and character systems
-* ⚙️ CMS integrations
-* 🔐 Authentication systems
-* 🚀 Developer tooling
+| 🎨 Creative       | ⚙️ Development       |
+| ----------------- | -------------------- |
+| Avatar systems    | Emulator development |
+| Clothing systems  | Emulator plugins     |
+| Imagers           | CMS integrations     |
+| Habbo fonts       | Authentication       |
+| Font generators   | APIs                 |
+| Chat bubbles      | Developer tooling    |
+| Scenes            | Automation           |
+| Custom interfaces | Database systems     |
 
-I particularly enjoy taking an existing project and asking:
-
-> *"Okay... but what if we pushed this way further?"*
+I'm particularly interested in making the ecosystem easier and more fun for developers to experiment with.
 
 ---
 
@@ -82,7 +120,7 @@ I particularly enjoy taking an existing project and asking:
 
 A fork of the Polaris Imager focused on bringing additional tools and customization to the Habbo emulator ecosystem.
 
-Features and experiments include:
+Some of the features and experiments include:
 
 * 🎨 Advanced image generation
 * 👕 Clothing customization
@@ -99,17 +137,45 @@ Features and experiments include:
 
 ### 🏨 Bobbix
 
-A personal Habbo-inspired project and playground for experimenting with:
+A personal Habbo-inspired project and playground where a lot of my ideas end up.
 
-* Nitro-based clients
-* Emulator development
-* Custom CMS functionality
-* Web technologies
-* UI/UX
-* Community features
-* Automation
+Things I've experimented with include:
 
-It's also where a lot of my "let's see if this is possible" ideas end up.
+* ⚡ Nitro-based clients
+* 🖥️ Emulator development
+* 🌐 Custom CMS functionality
+* 🎨 UI/UX customization
+* 🧩 Plugins
+* 👕 Avatar systems
+* 💬 Chat systems
+* 🔐 Authentication
+* ⚙️ Automation
+* 🛠️ Developer tooling
+
+It's basically where a lot of my:
+
+> *"Let's see if this is possible..."*
+
+ideas become actual features.
+
+---
+
+### 🧑‍💻 DevHBB
+
+An open-source oriented project and identity focused around **Habbo emulator development**.
+
+The idea is simple:
+
+**Make it easier for developers to discover, experiment with and build around the Habbo emulator ecosystem.**
+
+I want to encourage:
+
+* 🌱 New developers
+* 🔧 Experimentation
+* 🧩 Extensions
+* 🤝 Collaboration
+* 🚀 Open-source projects
+* 🎨 Customization
 
 ---
 
@@ -125,6 +191,9 @@ It's also where a lot of my "let's see if this is possible" ideas end up.
 │   🔧 Developer Tools                         │
 │   🤖 Automation                              │
 │   🧩 Plugins & Extensions                    │
+│   🔐 Authentication Systems                  │
+│   👕 Avatar & Clothing Systems               │
+│   💬 Chat & Interface Systems               │
 │   🚀 Random Ideas That Somehow Become Apps   │
 │                                              │
 └──────────────────────────────────────────────┘
@@ -138,16 +207,17 @@ I also like using AI as a **development tool**, when it actually makes sense.
 
 Not to replace development, but to:
 
-* explore ideas faster
-* understand unfamiliar code
-* prototype features
-* debug problems
-* improve documentation
-* experiment with new concepts
+* 💡 Explore ideas faster
+* 🔍 Understand unfamiliar code
+* 🧪 Prototype features
+* 🐛 Debug problems
+* 📚 Improve documentation
+* 🧠 Learn new concepts
+* ⚡ Automate repetitive work
 
 The goal is still simple:
 
-**Build things, learn from them, and make them better.**
+> **Build things, learn from them, and make them better.**
 
 ---
 
@@ -155,26 +225,125 @@ The goal is still simple:
 
 I'm particularly interested in making the Habbo emulator scene more accessible to **new developers**.
 
-There are a lot of interesting projects, but getting started can sometimes be complicated.
+There are a lot of interesting projects in the ecosystem, but getting started can sometimes be complicated.
 
-I'd like my projects to help lower that barrier and give developers more tools to experiment with.
+I'd like my projects to help lower that barrier by providing:
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duckietm&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duckietm&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-</p>
+* Better tools
+* Easier experimentation
+* More documentation
+* Reusable components
+* Open-source examples
+* More customization possibilities
 
 ---
 
-## 🐍 Contribution Graph
+# 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/duckietm/duckietm/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
-</p>
+<div align="center">
+
+<a href="https://github.com/DevHBB">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevHBB&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=0F7ED7&icon_color=0F7ED7&text_color=FFFFFF" alt="DevHBB GitHub Stats" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevHBB&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=0F7ED7&text_color=FFFFFF" alt="DevHBB Top Languages" />
+
+</a>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<a href="https://github.com/DevHBB">
+
+<img src="https://streak-stats.demolab.com/?user=DevHBB&hide_border=true&background=0D1117&ring=0F7ED7&fire=0F7ED7&currStreakLabel=0F7ED7&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak" />
+
+</a>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<a href="https://github.com/DevHBB">
+
+<img src="https://github-profile-trophy.vercel.app/?username=DevHBB&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
+
+</a>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/DevHBB">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevHBB&bg_color=0D1117&color=FFFFFF&line=0F7ED7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Activity Graph" />
+
+</a>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DevHBB/DevHBB/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+> ⚠️ The snake requires a small GitHub Actions workflow in your profile repository. The README alone cannot generate this animation.
+
+---
+
+# 🧩 My Development Philosophy
+
+```text
+        HAVE AN IDEA
+             │
+             ▼
+        ┌──────────┐
+        │ Build it │
+        └────┬─────┘
+             │
+             ▼
+        ┌──────────┐
+        │ Break it │
+        └────┬─────┘
+             │
+             ▼
+        ┌──────────┐
+        │ Fix it   │
+        └────┬─────┘
+             │
+             ▼
+        ┌──────────┐
+        │ Improve  │
+        └────┬─────┘
+             │
+             ▼
+        ┌──────────┐
+        │ Add more │
+        │ features │
+        └────┬─────┘
+             │
+             ▼
+       "Okay... this got
+        way bigger than
+        expected."
+```
 
 ---
 
@@ -188,13 +357,35 @@ I'd like my projects to help lower that barrier and give developers more tools t
 * 🚀 I enjoy open-source development
 * 🤖 AI is part of my development toolbox
 * 🐛 Breaking things is sometimes part of the development process
+* 🧩 If something can be customized, I'll probably try to customize it
+* 💡 "What if..." is probably one of my most dangerous sentences
 
 ---
 
-<p align="center">
-  <i>Sometimes the best feature is the one you weren't planning to build.</i>
-</p>
+## 🌐 Find Me
 
-<p align="center">
-  ⭐ Feel free to explore my repositories!
-</p>
+<div align="center">
+
+<a href="https://github.com/DevHBB">
+<img src="https://img.shields.io/badge/GitHub-DevHBB-181717?style=for-the-badge&logo=github" alt="GitHub" />
+</a>
+
+<a href="https://bobbix.fr">
+<img src="https://img.shields.io/badge/Bobbix-bobbix.fr-0F7ED7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Bobbix" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Build it. Break it. Fix it. Improve it.
+
+**That's basically my development process.**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F7ED7&height=120&section=footer" alt="Footer" />
+
+</div>
