@@ -131,41 +131,35 @@ There's a good chance I'll end up trying.
 
 ---
 
-# 🏨 Habbo Emulator Development
+# 🎮 Games, Coding & Habbo
 
-A huge part of what I enjoy working on is the **Habbo emulator ecosystem**.
+A big part of what I enjoy about development comes from **games**.
 
-I like experimenting with almost every layer of the stack.
+I've always liked video games, emulators and everything around them.
 
-<br>
+That's probably why I find coding so much more enjoyable when there's a **fun, interactive or game-related purpose behind it**.
 
-<div align="center">
+Building something that people can actually **play with, interact with or customize** is much more exciting to me than simply writing code for the sake of writing code.
 
-| 🎨 Creative | ⚙️ Development |       🌐 Web      |
-| :---------: | :------------: | :---------------: |
-| 👕 Clothing |  🖥️ Emulators |       🌐 CMS      |
-|  🎭 Scenes  |   🧩 Plugins   | 🔐 Authentication |
-| 🖼️ Imagers |     🔌 APIs    |   🗄️ Databases   |
-|   🔤 Fonts  |   🚀 Tooling   |     ⚡ Clients     |
-|   💬 Chat   |  🔧 Extensions |   🎨 Interfaces   |
+That's also what led me deeper into the **Habbo emulator ecosystem**.
 
-</div>
+I enjoy working on things like:
 
-<br>
+* 🏨 Habbo emulators
+* 🎮 Game-related projects
+* 🖥️ Custom clients
+* 🎨 Interfaces and visual systems
+* 👕 Avatars & clothing
+* 🖼️ Imagers and graphics tools
+* 💬 Chat systems
+* 🔤 Fonts & font generators
+* 🎭 Scenes and characters
+* 🧩 Plugins & extensions
+* ⚙️ Developer tools
 
-Some of the things I particularly enjoy:
+For me, the most fun part of development is when **code turns into something interactive**.
 
-* 🖥️ Emulator development
-* 🎨 Custom clients & interfaces
-* 🧩 Emulator plugins
-* 👕 Avatar & clothing systems
-* 💬 Chat customization
-* 🖼️ Imagers & graphics tools
-* 🔤 Habbo fonts & font generators
-* 🎭 Scenes and character systems
-* ⚙️ CMS integrations
-* 🔐 Authentication systems
-* 🚀 Developer tooling
+Whether it's a game, an emulator, a custom interface or some completely random idea that suddenly becomes a real feature — that's the kind of development I genuinely enjoy building.
 
 ---
 
@@ -173,7 +167,7 @@ Some of the things I particularly enjoy:
 
 ## 🧩 Polaris Imager
 
-A fork of the Polaris Imager focused on bringing **additional tools, customization and experimentation** to the Habbo emulator ecosystem.
+A fork of Polaris Imager focused on bringing **additional tools, customization and experimentation** to the Habbo emulator ecosystem.
 
 ### ✨ Features & Experiments
 
@@ -194,25 +188,30 @@ The goal is to make useful tools more accessible to developers and communities w
 
 ## 🧑‍💻 DevHBB
 
-**DevHBB** is my open-source oriented project and development space around the Habbo emulator ecosystem.
+**DevHBB** is my open-source project and development space around the Habbo emulator ecosystem.
 
 The idea is simple:
 
-> **Make it easier for developers to experiment.**
+> **Make development more accessible, more experimental, and more fun.**
 
 I want to encourage:
 
 * 🌱 New developers
-* 🔧 Experimentation
-* 🧩 Extensions
+* 🎮 Game-related experimentation
+* 🔧 Building and modifying things
+* 🧩 Extensions & plugins
 * 🤝 Collaboration
 * 🚀 Open-source projects
 * 🎨 Customization
 * 🛠️ Developer tooling
 
-The goal isn't simply to build another emulator project.
+I don't want to simply build another emulator project.
 
-It's about creating an ecosystem where developers can **learn, experiment, modify things and build their own ideas.**
+I want to create things that make developers think:
+
+> **"That's cool... I want to try that."**
+
+Because that's exactly the kind of development I enjoy.
 
 ---
 
@@ -321,24 +320,6 @@ I'd like my projects to help lower that barrier.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevHBB&bg_color=0D1117&color=FFFFFF&line=0F7ED7&point=FFFFFF&area=true&hide_border=true" alt="DevHBB Contribution Activity" />
 
 </a>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/DevHBB/DevHBB/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-*Yes, I made a snake eat my contributions.*
 
 </div>
 
