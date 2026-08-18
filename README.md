@@ -374,7 +374,7 @@ I'd like my projects to help lower that barrier, encourage experimentation, and 
                               │
                               ▼
                  "Wait... how did this become
-                      a whole project?"```
+                      a whole project?" ```
 ---
 
 # 📈 Contribution Activity
